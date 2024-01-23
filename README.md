@@ -16,6 +16,4 @@
 
 <img src="screen.gif"/>
 
-# 9-hafta-ici-Yemek-Sitesi
-# YemekSitesi
-# 9-hafta-ici-Yemek-Sitesi
+
