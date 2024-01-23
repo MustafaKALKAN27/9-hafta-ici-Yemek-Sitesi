@@ -10,24 +10,11 @@
 
 -Herşeyde geçişi yavaşlatmak için transition: 0.2s ease; verildi.
 
--Sayfadaki scrollbarın güzel görünmesi için 
-
-html::-webkit-scrollbar{
-    width: 0.8rem;
-    background-color: white;
-}
-html::-webkit-scrollbar-track{
-  
-    background-color:transparent;
-}
-html::-webkit-scrollbar-thumb{
-    border-radius: 3rem ;
-    background-color: var(--black-color);
-}
-kodları kullanıldı.
+-Sayfadaki scrollbarın güzel görünmesi için css uygulandı
 
 -İsimleri main_color, black-color ve border olan üç tane değişken tanımlandı.
 
 <img src="screen.gif"/>
 
 # 9-hafta-ici-Yemek-Sitesi
+# YemekSitesi
